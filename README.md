@@ -1,10 +1,11 @@
 # TopOpt-MMC188_python
 Python implementation of the 188 line Moving Morphable Components topology optimization code.
 
- **MMA Solver Python**: Python translation of the Method of Moving Asymptotes (MMA) optimization solver [2].
-tion of the MMA solver
-
+ **MMA Solver Python**: Python translation of the Method of Moving Asymptotes (MMA) optimization solver [1].
+**MMC** : Python translation of the 188 line Moving Morphable Component code [2].
 
 # References
-[1] Coniglio, Simone et al. "Generalized Geometry Projection: A unified approach for geometric feature based topology optimization." Archives of Computational Methods in Engineering, DOI: 10.1007/s11831-019-09362-8 (2019)
-[2] Svanberg, Krister. "MMA and GCMMA, versions September 2007." Optimization and Systems Theory 104 (2007).
+
+[1] Svanberg, Krister. "MMA and GCMMA, versions September 2007." Optimization and Systems Theory 104 (2007).
+
+[2] Zhang, W., Yuan, J., Zhang, J. et al. A new topology optimization approach based on Moving Morphable Components (MMC) and the ersatz material model. Struct Multidisc Optim 53, 1243–1260 (2016). https://doi.org/10.1007/s00158-015-1372-3
