@@ -4,6 +4,8 @@ Python implementation of the 188 line Moving Morphable Components topology optim
  **MMA Solver Python**: Python translation of the Method of Moving Asymptotes (MMA) optimization solver [1].
 **MMC** : Python translation of the 188 line Moving Morphable Component code [2].
 
+![alt text](https://github.com/ThomasRochefortB/MMC188_python/blob/main/MMC_Python.png)
+
 # References
 
 [1] Svanberg, Krister. "MMA and GCMMA, versions September 2007." Optimization and Systems Theory 104 (2007).
